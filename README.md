@@ -1,8 +1,17 @@
 # SERL-Podcast-Audio-Only
+The File is too big to be uploaded here.
+This google drive contains the Files
+There two types of files.
+.wav file (the audio itsself) and a ZIP including the same file.
+This is done because some mobile devices cannot handle ZIP files.
+
+The link -> https://drive.google.com/drive/folders/1xh8qXwiC4k6GxvF62wkdl65W9KLyVWtm?usp=sharing
+
 The purpose of this repository is to store and share the audio from the SERL Podcasts.
 Owner of this repository is not a part of SERL
 All rights of this podcast belongs to SERL
 https://www.bth.se/eng/about-bth/departments/softwareengineering/
+
 https://www.bth.se/om-oss/institutioner/dipt/
 
 SERL Sweden
